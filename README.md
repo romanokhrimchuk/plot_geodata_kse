@@ -1,14 +1,21 @@
-This repository contains teaching materials and code examples from the lecture:
-
-**"Basics of Data Analysis and Visualization"** at the [Kyiv School of Economics (KSE)](https://kse.ua/).
+This repository contains teaching materials and hands-on code examples from the lecture **"Basics of Data Analysis and Visualization"**, 
+developed as part of the course **"Urban Data Science and Quantitative Methods"** at the [Kyiv School of Economics (KSE)](https://kse.ua/).   
 
 ---
 
-## 🌍 About the Project
+### Covered Topics
 
-This repository demonstrates how to analyse and visualise geospatial data, with a focus on:
+- **Introduction to working with satellite imagery**  
+- **Big Geodata processing based on weather datasets**  
+- **Working with OpenStreetMap (OSM) data**  
+- **Performing spatial joins and other geometry-based operations**  
+- **Creating interactive choropleth and other thematic maps**
 
-- Earth Observation (EO) imagery [e.g., Landsat 9]
-- Weather datasets [e.g., ERA5]
-- Combining vector and raster data on maps
-- Practical workflows for beginners in Python-based geospatial analysis
+The lecture introduces core approaches to working with geospatial data using Python and its open-source libraries. It is designed for students and early-career professionals looking to apply spatial analysis in real-world contexts.
+
+
+### Contributors
+- [Anand Gajaria](https://www.linkedin.com/in/anand-gajaria-7b2272181/) – Data Scientist
+- [Anja Berestetska](https://www.linkedin.com/in/berestetska/) – Course coordinator and Lead organizer
+- [Roman Okhrimchuk](https://www.linkedin.com/in/roman-okhrimchuk/) – Geospatial Data Scientist
+
